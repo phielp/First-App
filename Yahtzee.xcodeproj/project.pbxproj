@@ -14,6 +14,19 @@
 		F7DE187C1BE250FE00C9B129 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7DE187A1BE250FE00C9B129 /* LaunchScreen.storyboard */; };
 		F7DE18871BE250FE00C9B129 /* YahtzeeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DE18861BE250FE00C9B129 /* YahtzeeTests.swift */; };
 		F7DE18921BE250FE00C9B129 /* YahtzeeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DE18911BE250FE00C9B129 /* YahtzeeUITests.swift */; };
+		F7DE18A81BE2DFB500C9B129 /* dice.wav in Resources */ = {isa = PBXBuildFile; fileRef = F7DE18A61BE2DFB500C9B129 /* dice.wav */; };
+		F7DE18A91BE2DFB500C9B129 /* rollTheDice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F7DE18A71BE2DFB500C9B129 /* rollTheDice.jpg */; };
+		F7E97A811BE38C270057CB6D /* die1.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A781BE38C270057CB6D /* die1.png */; };
+		F7E97A821BE38C270057CB6D /* die2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A791BE38C270057CB6D /* die2.png */; };
+		F7E97A831BE38C270057CB6D /* die3.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A7A1BE38C270057CB6D /* die3.png */; };
+		F7E97A841BE38C270057CB6D /* die4.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A7B1BE38C270057CB6D /* die4.png */; };
+		F7E97A851BE38C270057CB6D /* die5.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A7C1BE38C270057CB6D /* die5.png */; };
+		F7E97A861BE38C270057CB6D /* die6.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A7D1BE38C270057CB6D /* die6.png */; };
+		F7E97A871BE38C270057CB6D /* locked.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A7E1BE38C270057CB6D /* locked.jpg */; };
+		F7E97A881BE38C270057CB6D /* reset.png in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A7F1BE38C270057CB6D /* reset.png */; };
+		F7E97A891BE38C270057CB6D /* unlocked.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A801BE38C270057CB6D /* unlocked.jpg */; };
+		F7E97A8C1BE39C670057CB6D /* lock.wav in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A8A1BE39C670057CB6D /* lock.wav */; };
+		F7E97A8D1BE39C670057CB6D /* unlock.wav in Resources */ = {isa = PBXBuildFile; fileRef = F7E97A8B1BE39C670057CB6D /* unlock.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		F7DE188D1BE250FE00C9B129 /* YahtzeeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YahtzeeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7DE18911BE250FE00C9B129 /* YahtzeeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YahtzeeUITests.swift; sourceTree = "<group>"; };
 		F7DE18931BE250FE00C9B129 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7DE18A61BE2DFB500C9B129 /* dice.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = dice.wav; path = Media/dice.wav; sourceTree = "<group>"; };
+		F7DE18A71BE2DFB500C9B129 /* rollTheDice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rollTheDice.jpg; path = Media/rollTheDice.jpg; sourceTree = "<group>"; };
+		F7E97A781BE38C270057CB6D /* die1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die1.png; path = Media/die1.png; sourceTree = "<group>"; };
+		F7E97A791BE38C270057CB6D /* die2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die2.png; path = Media/die2.png; sourceTree = "<group>"; };
+		F7E97A7A1BE38C270057CB6D /* die3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die3.png; path = Media/die3.png; sourceTree = "<group>"; };
+		F7E97A7B1BE38C270057CB6D /* die4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die4.png; path = Media/die4.png; sourceTree = "<group>"; };
+		F7E97A7C1BE38C270057CB6D /* die5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die5.png; path = Media/die5.png; sourceTree = "<group>"; };
+		F7E97A7D1BE38C270057CB6D /* die6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die6.png; path = Media/die6.png; sourceTree = "<group>"; };
+		F7E97A7E1BE38C270057CB6D /* locked.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = locked.jpg; path = Media/locked.jpg; sourceTree = "<group>"; };
+		F7E97A7F1BE38C270057CB6D /* reset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = reset.png; path = Media/reset.png; sourceTree = "<group>"; };
+		F7E97A801BE38C270057CB6D /* unlocked.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = unlocked.jpg; path = Media/unlocked.jpg; sourceTree = "<group>"; };
+		F7E97A8A1BE39C670057CB6D /* lock.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = lock.wav; path = Media/lock.wav; sourceTree = "<group>"; };
+		F7E97A8B1BE39C670057CB6D /* unlock.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = unlock.wav; path = Media/unlock.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +107,7 @@
 				F7DE18851BE250FE00C9B129 /* YahtzeeTests */,
 				F7DE18901BE250FE00C9B129 /* YahtzeeUITests */,
 				F7DE186F1BE250FE00C9B129 /* Products */,
+				F7DE18A31BE29F4E00C9B129 /* Sounds */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +150,26 @@
 				F7DE18931BE250FE00C9B129 /* Info.plist */,
 			);
 			path = YahtzeeUITests;
+			sourceTree = "<group>";
+		};
+		F7DE18A31BE29F4E00C9B129 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				F7DE18A61BE2DFB500C9B129 /* dice.wav */,
+				F7DE18A71BE2DFB500C9B129 /* rollTheDice.jpg */,
+				F7E97A781BE38C270057CB6D /* die1.png */,
+				F7E97A791BE38C270057CB6D /* die2.png */,
+				F7E97A7A1BE38C270057CB6D /* die3.png */,
+				F7E97A7B1BE38C270057CB6D /* die4.png */,
+				F7E97A7C1BE38C270057CB6D /* die5.png */,
+				F7E97A7D1BE38C270057CB6D /* die6.png */,
+				F7E97A7E1BE38C270057CB6D /* locked.jpg */,
+				F7E97A7F1BE38C270057CB6D /* reset.png */,
+				F7E97A801BE38C270057CB6D /* unlocked.jpg */,
+				F7E97A8A1BE39C670057CB6D /* lock.wav */,
+				F7E97A8B1BE39C670057CB6D /* unlock.wav */,
+			);
+			name = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +279,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7E97A8C1BE39C670057CB6D /* lock.wav in Resources */,
+				F7E97A831BE38C270057CB6D /* die3.png in Resources */,
+				F7E97A8D1BE39C670057CB6D /* unlock.wav in Resources */,
 				F7DE187C1BE250FE00C9B129 /* LaunchScreen.storyboard in Resources */,
+				F7E97A881BE38C270057CB6D /* reset.png in Resources */,
+				F7E97A841BE38C270057CB6D /* die4.png in Resources */,
+				F7DE18A91BE2DFB500C9B129 /* rollTheDice.jpg in Resources */,
+				F7E97A811BE38C270057CB6D /* die1.png in Resources */,
+				F7DE18A81BE2DFB500C9B129 /* dice.wav in Resources */,
+				F7E97A851BE38C270057CB6D /* die5.png in Resources */,
 				F7DE18791BE250FE00C9B129 /* Assets.xcassets in Resources */,
 				F7DE18771BE250FE00C9B129 /* Main.storyboard in Resources */,
+				F7E97A891BE38C270057CB6D /* unlocked.jpg in Resources */,
+				F7E97A821BE38C270057CB6D /* die2.png in Resources */,
+				F7E97A861BE38C270057CB6D /* die6.png in Resources */,
+				F7E97A871BE38C270057CB6D /* locked.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +547,7 @@
 				F7DE18981BE250FE00C9B129 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F7DE18991BE250FE00C9B129 /* Build configuration list for PBXNativeTarget "YahtzeeTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +556,7 @@
 				F7DE189B1BE250FE00C9B129 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F7DE189C1BE250FE00C9B129 /* Build configuration list for PBXNativeTarget "YahtzeeUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +565,7 @@
 				F7DE189E1BE250FE00C9B129 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
