@@ -4,7 +4,7 @@ Naam: Philip Bouman
 Email: phielp@gmail.com
 Studentnr: 10668667
 
-Roll the dice! (mapnaam is yahtzee)
+Roll the dice!
 Dit is een uitgeklede versie van yahtzee (alleen de bovenste helft). 3 worpen om met 5 dobbelstenen zoveel mogelijk van 1 getal te gooien. 
 	-Klik op Roll the dice. 
 	-Zet dobbelstenen vast met de switches. 
